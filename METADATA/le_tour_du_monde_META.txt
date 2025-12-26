@@ -1,0 +1,572 @@
+--- ATTENTION : CONSERVEZ CETTE LICENCE SI VOUS REDISTRIBUEZ CE FICHIER ---
+License ABU
+-=-=-=-=-=-
+Version 1.1, Aout 1999
+
+Copyright (C) 1999 Association de Bibliophiles Universels
+   http://abu.cnam.fr/
+   abu@cnam.fr
+
+La base de textes de l'Association des Bibliophiles Universels (ABU)
+est une oeuvre de compilation, elle peut être copiée, diffusée et
+modifiée dans les conditions suivantes :
+
+1.  Toute copie à des fins privées, à des fins d'illustration de l'enseignement
+    ou de recherche scientifique est autorisée.
+
+2.  Toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a) soit inclure la présente licence s'appliquant a l'ensemble de la
+        diffusion ou de l'oeuvre dérivée.
+
+     b) soit permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement une version
+        numérisée de chaque texte inclut, muni de la présente licence.  Cette
+        possibilité doit être mentionnée explicitement et de façon claire,
+        ainsi que le fait que la présente notice s'applique aux documents
+        extraits.
+
+     c) permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement la version
+        numérisée originale, munie le cas échéant des améliorations visées au
+        paragraphe 6, si elles sont présentent dans la diffusion ou la nouvelle
+        oeuvre. Cette possibilité doit être mentionnée explicitement et de
+        façon claire, ainsi que le fait que la présente notice s'applique aux
+        documents extraits.
+
+   Dans tous les autres cas, la présente licence sera réputée s'appliquer
+   à l'ensemble de la diffusion ou de l'oeuvre dérivée.
+
+
+3. L'en-tête qui accompagne chaque fichier doit être intégralement 
+   conservée au sein de la copie.
+
+4. La mention du producteur original doit être conservée, ainsi
+   que celle des contributeurs ultérieurs.
+
+5. Toute modification ultérieure, par correction d'erreurs,
+   additions de variantes, mise en forme dans un autre format, ou autre,
+   doit être indiquée.  L'indication des diverses contributions devra être
+   aussi précise que possible, et datée.
+
+6. Ce copyright s'applique obligatoirement à toute amélioration
+   par simple correction d'erreurs ou d'oublis mineurs (orthographe,
+   phrase manquante, ...), c'est-à-dire ne correspondant pas à
+   l'adjonction d'une autre variante connue du texte, qui devra donc
+   comporter la présente notice.
+
+----------------------- FIN DE LA LICENCE ABU --------------------------------
+
+--- ATTENTION : CONSERVEZ CET EN-TETE SI VOUS REDISTRIBUEZ CE FICHIER ---
+
+<IDENT tdm80j>
+<IDENT_AUTEURS vernej>
+<IDENT_COPISTES walkerj>
+<ARCHIVE http://www.abu.org/>
+<VERSION 2>
+<DROITS 0>
+<TITRE Le tour du monde en quatre-vingt jours>
+<GENRE prose>
+<AUTEUR Verne, Jules>
+<COPISTE John Walker (kelvin@fourmilab.ch)>
+<NOTESPROD>
+
+This  is  a  public  domain  Etext edition of Jules Verne's Le tour du
+monde en 80 jours (Around the World in 80 Days).
+
+This Etext is an unabridged reproduction of the original  1873  Hetzel
+edition.   I  have  corrected  several minor typographical errors, but
+otherwise the text is precisely  as  published;  modern  readers  will
+discover a distinct 19th century flavour in the vocabulary and grammar
+(get ready to remember everything you've forgotten  about  the  _passé
+simple_,  in  particular).
+
+This  document  is  supplied  in  the ISO 8859/1 Latin-1 character set
+which includes the accented characters used in French.  The ISO 8859/1
+character  set  is  a  superset  of  7-bit  ASCII and is the first 256
+characters of the 16-bit Unicode set.  The following lines should be a
+sequence  of  letters, unaccented in the first line, with a variety of
+accents in subsequent lines.  If your computer shows these as anything
+other than the correctly accented characters, French words in the body
+of the document will also be incorrect.
+
+    Sans accent:    A E I O U   a e i o u     C c
+    Grave:          À È Ì Ò Ù   à è ì ò ù
+    Aigu:           Á É Í Ó Ú   á é í ó ú
+    Circonflexe:    Â Ê Î Ô Û   â ê î ô û
+    Diérèse:        Ä Ë Ï Ö Ü   ä ë ï ö ü
+    Cedille:                                  Ç ç
+
+                      Beautifully Typeset Etexts
+                      --------------------------
+
+Free Plain Vanilla Etexts don't have to be austere and typographically
+uninviting.  Most literature (as opposed to  scientific  publications,
+for   example),   is   typographically  simple  and  can  be  rendered
+beautifully into  type  without  encoding  it  into  proprietary  word
+processor file formats or impenetrable markup languages.
+
+This Etext is encoded in a form which  permits  it  to  be  both  read
+directly   (Plain   Vanilla)   and   typeset   in   a  form  virtually
+indistinguishable from printed editions of the work.
+
+To create "typographically friendly" Etexts, I adhere to the following
+rules.  Rules not used in this Etext are prefixed with "**".
+
+    1.  Characters  follow the 8-bit ISO 8859/1 Latin-1 character set.
+        ASCII is a proper subset of this character set, so any  "Plain
+        ASCII"  file meets ths criterion by definition.  The extension
+        to ISO 8859/1 is required so that  Etexts  which  include  the
+        accented  characters  used  by  Western European languages may
+        continue to be "readable by both humans and computers".
+
+    2.  No  white  space  characters  other  than  blanks   and   line
+        separators  are  used  (in  particular,  tabs  are expanded to
+        spaces).
+
+    3.  The text bracket sequence:
+        <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+        appears both before and after the actual body  of  the  Etext.
+        This  allows  including an arbitrary prefix and postfix to the
+        body of the document.
+
+    4.  Normal body text begins in column 1 and is  set  ragged  right
+        with  a  line  length  of  70  characters.   The  choice of 70
+        characters is arbitrary and was made to  avoid  over-long  and
+        therefore less readable lines in the Plain Vanilla text.
+
+    5.  Paragraphs are separated by blank lines.
+
+    6.  Centering,  right,  and  left justification  is  indicated  by
+        actually so-justifying the text within the 70 character  line.
+        Left  justified  lines  should  start  in  column  2  to avoid
+        confusion with paragraph body text.
+
+**  7.  Block  quotations  are  indented to start  in column 5 and set
+        ragged right with a line length of 60 characters.
+
+    8.  Text set in italics is  bracketed  by  underscore  characters,
+        "_".  These must match.
+
+    9.  Footnotes  are  included  in-line,  bracketed  by  "[]".   The
+        footnote appears at the point in the copy where  the  footnote
+        mark appears in the source text.
+
+   10.  The  title  is  defined  as the sequence of lines which appear
+        between the first text bracket "<><><>..." and a centered line
+        consisting exclusively of more than two equal signs "====".
+
+   11.  The  author's name is the text which follows the line of equal
+        signs marking the end of the  title  and  precedes  the  first
+        chapter mark.  This may be multiple lines.
+
+   12.  Chapters are delimited by a three  line  sequence  of centered
+        lines:
+                           <Chapter number>
+                         --------------------
+                            <Chapter name>
+
+        The line of equal signs must be centered and contain three  or
+        more  equal  signs  and  no  other characters other than white
+        space.  Chapter "numbers" need not be numeric--they can be any
+        text.   Documents  without  chapter  breaks  should contain an
+        initial chapter mark following the title with <Chapter number>
+        of "*" and a blank <Chapter name>.
+
+   13.  Dashes in the text are indicated  in  the  normal  typewritten
+        text  convention  of "--".  No hyphenation of words at the end
+        of lines is done.
+
+   14.  Ellipses are indicated by "..."; sentence-ending  ellipses  by
+        "....".
+
+** 15.  Greek  letters  and  mathematical  symbols are enclosed in the
+        brackets "\(" and "\)" and are expressed as their character or
+        symbol  names in the LaTeX typesetting language.  For example,
+        write the Greek word for "word" as:
+
+                \( \lambda \acute{o} \gamma o \varsigma \)
+
+        and the formula for the roots of a quadratic equation as:
+
+                \( x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} \)
+
+        (Note: I acknowledge that this provision is controversial.  It
+        is as distasteful to me as I suspect it is  to  you.   In  its
+        defence,  let me treat the Greek letter and math formula cases
+        separately.  Using LaTeX encoding for Greek letters is  purely
+        a  stopgap  until  Unicode  comes  into  common  use on enough
+        computers so that we can  use  it  for  Etexts  which  contain
+        characters  not in the ASCII or ISO 8859/1 sets (which are the
+        7- and 8-bit subsets of Unicode, respectively).  If an  author
+        uses  a Greek word in the text, we have two ways to proceed in
+        attempting to meet the condition:
+
+             The etext, when displayed, is clearly readable, and
+             does *not* contain characters other than those
+             intended by the author of the work, although....
+
+        The  first  approach is to transliterate into Roman characters
+        according to a standard  table  such  as  that  given  in  The
+        Chicago  Manual  of  Style.   This  preserves  readability and
+        doesn't require funny encoding, but in a  sense  violates  the
+        author's    "original    intent"--the    author   could   have
+        transliterated  the  word in the first place but chose not to.
+        By transliterating we're reversing the author's decision.  The
+        second  approach,  encoding  in  LaTeX  or  some  other markup
+        language, preserves the distinction that the author wrote  the
+        word  in  Greek  and  maintains  readability since letters are
+        called out by their English language names, for the most part.
+        Of  course LaTeX helps us only for Greek (and a few characters
+        from other languages).  If you're faced with Cyrillic, Arabic,
+        Chinese,  Japanese,  or  other  languages written in non-Roman
+        letters, the only option (pre-Unicode) is to transliterate.
+
+        I argue that encoding mathematical formulas as LaTeX  achieves
+        the  goal  of  "readable  by  humans" on the strength of LaTeX
+        encoding being widely used  in  the  physics  and  mathematics
+        communities  when  writing  formulas in E-mail and other ASCII
+        media.  Just as one is free to to transliterate  Greek  in  an
+        Etext, one can use ASCII artwork formulas like:
+
+                                          ---------
+                                     +   /  2
+                                  -b - \/  b  - 4ac
+                        x     =  ------------------
+                         1,2            2a
+
+        This  is  probably  a  better  choice  for occasional formulas
+        simple enough to write out this way.  But to produce Etexts of
+        historic     scientific    publications,    Einstein's    "Zur
+        Elektrodynamik bewegter Körper" (the special relativity  paper
+        published  in  _Annalen der Physik_ in 1905), trying to render
+        the hundreds of complicated equations in  ASCII  is  not  only
+        extremely  tedious  but  in all likelihood counter-productive;
+        ambiguities in trying to render complex equations  would  make
+        it difficult for a reader to determine precisely what Einstein
+        wrote unless conventions just as complicated  (and  harder  to
+        learn)  as those of LaTeX were adopted for ASCII expression of
+        mathematics.  Finally, the choice of LaTeX  encoding  is  made
+        not  only based on its existing widespread use but because the
+        underlying software  that  defines  it  (TeX  and  LaTeX)  are
+        entirely  in the public domain, available in source code form,
+        implemented on most commonly-available computers,  and  frozen
+        by their authors so that, unlike many commercial products, the
+        syntax is unlikely  to  change  in  the  future  and  obsolete
+        current texts).
+
+   16.  Other punctuation in the text consists only of the characters:
+
+           . , : ; ? ! ` ' ( ) { } " + = - / * @ # $ % & ~ ^ | <>
+
+        In other words, the characters:
+
+           _ [ ] \
+
+        are never used except in the special senses defined above.
+
+** 17.  Quote marks may be rendered explicitly as open and quote marks
+        with the sequences `single quotes' or ``double  quotes''.   As
+        long  as  quotes  are  balanced  within a paragraph, the ASCII
+        quote character '"' may be  used.   Alternate  occurrences  of
+        this  character  will  be typeset as opening and closing quote
+        characters.  The open/close quote state is reset at the  start
+        of  each  paragraph,  limiting the scope of errors to a single
+        paragraph.
+
+To demonstrate typesetting of an Etext prepared  in  this  form,  a  C
+program  is  appended  to  the  end of this Etext which, extracted and
+compiled, will read the Etext and emit either LaTeX source code which,
+fed  to  LaTeX will produce a camera-ready book complete with table of
+contents, or an HTML document tree suitable  for  publication  on  the
+Web.  This program produces LaTeX output solely as an illustration; it
+can be modified to produce documents  suitable  for  other  formatting
+systems.   The  output  of  the  program  usually requires some manual
+editing to produce output of the highest quality, but the  raw  output
+of   the  program  is  still  generally  far  more  readable  than  an
+unformatted file.  The C program is in the public domain  and  may  be
+used and modified in any manner without restrictions.
+
+D'ici à la fin du document le texte sera redigé en français.
+
+                 Typographie utilisée dans le texte.
+                 -----------------------------------
+
+_xxx_       Texte imprimé en italiques.
+[xxx]       Note au bas de la page.
+--          Tiret.
+
+
+</NOTESPROD>
+----------------------- FIN DE L'EN-TETE --------------------------------
+
+------------------------- DEBUT DU FICHIER tdm80j2 --------------------------------
+
+ 
+
+                         LE TOUR DU MONDE 
+                                EN 
+                       QUATRE-VINGTS JOURS 
+              ===================================== 
+
+                         par Jules Verne 
+
+                                I 
+                       -------------------- 
+            
+
+                                II 
+                       -------------------- 
+                 
+                               III 
+                       -------------------- 
+     
+                                IV 
+                       -------------------- 
+         
+                                V 
+                       -------------------- 
+            
+                                VI 
+                       -------------------- 
+         
+
+                               VII 
+                       -------------------- 
+         
+                               VIII 
+                       -------------------- 
+           
+                                IX 
+                       -------------------- 
+        
+
+                                X 
+                       -------------------- 
+           
+
+                                XI 
+                       -------------------- 
+          
+                               XII 
+                       -------------------- 
+         
+
+                               XIII 
+                       -------------------- 
+       
+
+                               XIV 
+                       -------------------- 
+       
+
+                                XV 
+                       -------------------- 
+          
+                               XVI 
+                       -------------------- 
+          
+
+                               XVII 
+                       -------------------- 
+  
+                              XVIII 
+                       -------------------- 
+         
+
+                               XIX 
+                       -------------------- 
+            
+
+                                XX 
+                       -------------------- 
+         
+                               XXI 
+                       -------------------- 
+           
+
+                               XXII 
+                       -------------------- 
+       
+
+                              XXIII 
+                       -------------------- 
+   
+
+                               XXIV 
+                       -------------------- 
+             
+
+                               XXV 
+                       -------------------- 
+        
+                               XXVI 
+                       -------------------- 
+      
+
+			     XXVII
+                       -------------------- 
+       
+                              XXVIII 
+                       -------------------- 
+       
+			     XXIX
+                       -------------------- 
+    		      
+		              XXX 
+                       -------------------- 
+     
+                               XXXI 
+                       -------------------- 
+      
+
+                              XXXII 
+                       -------------------- 
+              
+
+                              XXXIII 
+                       -------------------- 
+    
+                              XXXIV 
+                       -------------------- 
+      
+                               XXXV 
+                       -------------------- 
+        
+                              XXXVI 
+                       -------------------- 
+            
+
+                              XXXVII 
+                       -------------------- 
+     
+                               FIN 
+
+
+                       -------------------- 
+                        TABLE DES MATIÈRES 
+
+                            Chapitres 
+
+I. Dans lequel Phileas Fogg et Passepartout 
+ s'acceptent réciproquement, l'un comme maître, 
+ l'autre comme domestique 
+
+II. Où Passepartout est convaincu qu'il a enfin 
+ trouvé son idéal 
+
+III. Où s'engage une conversation qui pourra 
+ coûter cher à Phileas Fogg 
+
+IV. Dans lequel Phileas Fogg stupéfie 
+ Passepartout, son domestique 
+
+V. Dans lequel une nouvelle valeur apparaît sur la 
+ place de Londres 
+
+VI. Dans lequel l'agent Fix montre une impatience 
+ bien légitime 
+
+VII. Qui témoigne une fois de plus de l'inutilité 
+ des passeports en matière de police 
+
+VIII. Dans lequel Passepartout parle un peu plus 
+ peut-être qu'il ne conviendrait 
+
+IX. Où la mer Rouge et la mer des Indes se 
+ montrent propices aux desseins de Phileas Fogg 
+
+X. Où Passepartout est trop heureux d'en être 
+ quitte en perdant sa chaussure 
+
+XI. Où Phileas Fogg achète une monture à un prix 
+ fabuleux 
+
+XII. Où Phileas Fogg et ses compagnons 
+ s'aventurent à travers les forêts de l'Inde, et 
+ ce qui s'ensuit 
+
+XIII. Dans lequel Passepartout prouve une fois de 
+ plus que la fortune sourit aux audacieux 
+
+XIV. Dans lequel Phileas Fogg descend toute 
+ l'admirable vallée du Gange sans même songer à 
+ la voir 
+
+XV. Où le sac aux bank-notes s'allège encore de 
+ quelques milliers de livres 
+
+XVI. Où Fix n'a pas l'air de connaître du tout les 
+ choses dont on lui parle 
+
+XVII. Où il est question de choses et d'autres 
+ pendant la traversée de Singapore à Hong-Kong 
+
+XVIII. Dans lequel Phileas Fogg, Passepartout, 
+ Fix, chacun de son côté, va à ses affaires 
+
+XIX. Où Passepartout prend un trop vif intérêt à 
+ son maître, et ce qui s'ensuit 
+
+XX. Dans lequel Fix entre directement en relation 
+ avec Phileas Fogg 
+
+XXI. Où le patron de la Tankadère risque fort 
+ de perdre une prime de deux cents livres 
+
+XXII. Où Passepartout voit bien que, même aux 
+ antipodes, il est prudent d'avoir quelque 
+ argent dans sa poche 
+
+XXIII. Dans lequel le nez de Passepartout 
+ s'allonge démesurément 
+
+XXIV. Pendant lequel s'accomplit la traversée de 
+ l'océan Pacifique 
+
+XXV. Où l'on donne un léger aperçu de San 
+ Francisco, un jour de meeting 
+
+XXVI. Dans lequel on prend le train express du 
+ chemin de fer du Pacifique 
+
+XXVII. Dans lequel Passepartout suit, avec une 
+ vitesse de vingt milles à l'heure, un cours 
+ d'histoire mormone 
+
+XXVIII. Dans lequel Passepartout ne put parvenir à 
+ faire entendre le langage de la raison 
+
+XXIX. Où il sera fait le récit d'incidents divers 
+ qui ne se rencontrent que sur les rails-roads 
+ de l'Union 
+
+XXX. Dans lequel Phileas Fogg fait tout simplement 
+ son devoir 
+
+XXXI. Dans lequel l'inspecteur Fix prend très 
+ sérieusement les intérêts de Phileas Fogg 
+
+XXXII. Dans lequel Phileas Fogg engage une lutte 
+ directe contre la mauvaise chance 
+
+XXXIII. Où Phileas Fogg se montre à la hauteur des 
+ circonstances 
+
+XXXIV. Qui procure à Passepartout l'occasion de 
+ faire un jeu de mots atroce, mais peut-être 
+ inédit 
+
+XXXV. Dans lequel Passepartout ne se fait pas 
+ répéter deux fois l'ordre que son maître lui a 
+ donné 
+
+XXXVI. Dans lequel Phileas Fogg fait de nouveau 
+ prime sur le marché 
+
+XXXVII. Dans lequel il est prouvé que Phileas Fogg 
+ n'a rien gagné à faire ce tour du monde, si ce 
+ n'est le bonheur 
+
+
+------------------------- FIN DU FICHIER tdm80j2 --------------------------------

@@ -1,0 +1,153 @@
+--- ATTENTION : CONSERVEZ CETTE LICENCE SI VOUS REDISTRIBUEZ CE FICHIER ---
+License ABU
+-=-=-=-=-=-
+Version 1.1, Aout 1999
+
+Copyright (C) 1999 Association de Bibliophiles Universels
+   http://abu.cnam.fr/
+   abu@cnam.fr
+
+La base de textes de l'Association des Bibliophiles Universels (ABU)
+est une oeuvre de compilation, elle peut être copiée, diffusée et
+modifiée dans les conditions suivantes :
+
+1.  Toute copie à des fins privées, à des fins d'illustration de l'enseignement
+    ou de recherche scientifique est autorisée.
+
+2.  Toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a) soit inclure la présente licence s'appliquant a l'ensemble de la
+        diffusion ou de l'oeuvre dérivée.
+
+     b) soit permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement une version
+        numérisée de chaque texte inclut, muni de la présente licence.  Cette
+        possibilité doit être mentionnée explicitement et de façon claire,
+        ainsi que le fait que la présente notice s'applique aux documents
+        extraits.
+
+     c) permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement la version
+        numérisée originale, munie le cas échéant des améliorations visées au
+        paragraphe 6, si elles sont présentent dans la diffusion ou la nouvelle
+        oeuvre. Cette possibilité doit être mentionnée explicitement et de
+        façon claire, ainsi que le fait que la présente notice s'applique aux
+        documents extraits.
+
+   Dans tous les autres cas, la présente licence sera réputée s'appliquer
+   à l'ensemble de la diffusion ou de l'oeuvre dérivée.
+
+
+3. L'en-tête qui accompagne chaque fichier doit être intégralement 
+   conservée au sein de la copie.
+
+4. La mention du producteur original doit être conservée, ainsi
+   que celle des contributeurs ultérieurs.
+
+5. Toute modification ultérieure, par correction d'erreurs,
+   additions de variantes, mise en forme dans un autre format, ou autre,
+   doit être indiquée.  L'indication des diverses contributions devra être
+   aussi précise que possible, et datée.
+
+6. Ce copyright s'applique obligatoirement à toute amélioration
+   par simple correction d'erreurs ou d'oublis mineurs (orthographe,
+   phrase manquante, ...), c'est-à-dire ne correspondant pas à
+   l'adjonction d'une autre variante connue du texte, qui devra donc
+   comporter la présente notice.
+
+----------------------- FIN DE LA LICENCE ABU --------------------------------
+
+--- ATTENTION : CONSERVEZ CET EN-TETE SI VOUS REDISTRIBUEZ CE FICHIER ---
+<IDENT bretagne>
+<IDENT_AUTEURS stendhal>
+<IDENT_COPISTES durosayd>
+<ARCHIVE http://abu.cnam.fr/ >
+<VERSION 1>
+<DROITS 0>
+<TITRE Mémoires d'un touriste (Voyage en Bretagne et en Normandie) (1838)>
+<GENRE prose>
+<AUTEUR Stendhal>
+<NOTESPROD>
+
+Circonstances de rédaction :
+---------------------------------
+
+Ce titre de « Voyage en Bretagne et en
+Normandie » n'est pas de Stendhal. Nous le proposons par commodité pour
+désigner un long fragment (sans coupure de notre part) des _Mémoires d'un
+touriste_, que Stendhal écrivit en 1837, à l'âge de 54 ans, pour satisfaire
+à une commande d'éditeur. Il est alors l'auteur de _Le Rouge et le Noir_
+(1830), et à la veille de se lancer dans _La Chartreuse de Parme_
+(novembre-décembre 1838). Consul à Civita-Vecchia depuis 1830, il a obtenu
+de son administration un congé de longue durée en 1836. Vers la fin de mai
+1837, il se met en route en compagnie de Mérimée, qui lui-même a déjà
+parcouru plusieurs régions, contribué à lancer la mode des voyages, et
+entreprend, en tant qu'Inspecteur général des Monuments historiques, une
+inspection en Auvergne. Rapidement, leurs chemins divergent. Parti avec un
+carnet de notes, Stendhal se rend à Nantes et y séjourne du 2 au 8 juin,
+gagne Vannes  le 9, est de retour à Paris vers le début de juillet. Les
+dates du récit sont donc décalées par rapport au vécu. Du reste, Stendhal
+présente son livre sous le couvert d'une fiction, comme le voyage d'un
+marchand de fer, qui a effectué une partie de sa carrière aux colonies et
+veut finalement connaître la France. La rédaction du livre s'est poursuivie
+durant l'hiver 1837-38. Le 8 mars 1838, lorsque l'écrivain part pour un
+nouveau voyage dans le Midi de la France, il a déjà dans ses valises un
+volume imprimé et corrigé. Pour certaines pages relatives à l'archéologie
+et à l'architecture gothique, l'auteur s'inspire des _Notes d'un voyage
+dans l'Ouest de la France_  de Mérimée (Paris : Fournier, 1836).
+
+Publication :
+-----------------
+
+L'ouvrage entier est mis en vente fin juin 1838, chez
+Ambroise Dupont. En 1854, après la mort de l'auteur, une 2e édition est
+donnée par son ami Romain Colomb, augmentée de parties inédites. Editions
+savantes par : Y. Gandon, Crès, 1927 ; H. Martineau, Le Divan, 1929 ; Louis
+Royer, dans _uvres complètes_, Champion, 1967-74. Reprise dans une
+nouvelle éd. sous la direction de V. Del Litto et E. Abravanel,
+Genève-Paris : Slatkine Reprints, 1986, tomes 15, 16, 17. C'est ce texte
+qui fait référence pour la présente numérisation. Dans cette édition, la
+partie relative à la Bretagne prend place au t. 15, pp. 417-506, et se
+poursuit (de Vannes à Saint-Malo) dans le t. 16, pp. 1-79 ; celle relative
+à la Normandie, de Granville à Paris, dans le t. 16, pp. 80-116).  Des
+feuilles présentées en appendice dans cette édition, nous n'avons retenu
+que les pages concernant explicitement la Normandie (qui y figurent aux pp.
+517-528 du t. 16). Par ailleurs, les _Mémoires d'un touriste_ s'insèrent
+également dans un volume de  _Voyages en France_, édité par Vittorio Del
+Litto, Gallimard, « Bibliothèque de la Pléiade », 1664 p. A signaler encore
+une édition partielle, sous le titre _Mémoires d'un touriste en Bretagne_,
+Paris : Éditions Entente, 1984, 21-185 p. [De Nantes à Saint-Malo]. En
+dépit de quelques négligences dans l'établissement du texte, elle mérite
+attention par une préface de Jean Markale, alerte, caustique et réfléchie.
+
+Principes de présentation :
+-------------------------------
+
+Nous avons respecté la graphie de Stendhal qui
+écrit « dixième » siècle et non Xe  ; madame, mademoiselle, avec une
+minuscule, ainsi que des mots comme : république et chambre, là où l'usage
+moderne ferait prévaloir la majuscule, et l'abréviation. Il lui arrive
+aussi d'hésiter entre Renaissance et  renaissance. Quant aux notes de
+Stendhal, l'appel est présenté entre crochets, et en numérotation
+continue : (1). Il est immédiatement suivi du texte de la note, entre
+crochets droits, précédé du numéro d'appel : [1. ]. Les rares notes
+d'éditeur sont distinguées par une astérisque, sans numérotation : (*) [*].
+
+D. Durosay
+
+</NOTESPROD>
+
+
+----------------------- FIN DE L'EN-TETE --------------------------------
+
+------------------------- DEBUT DU FICHIER bretagne1 --------------------------------
+
+
+
+
+
+
+
+
+
+------------------------- FIN DU FICHIER bretagne1 --------------------------------
