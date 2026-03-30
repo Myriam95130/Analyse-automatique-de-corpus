@@ -10,4 +10,4 @@ Réalisation d'une étude lexicographique comparative de corpus, centrée sur le
 basant sur les textes du corpus et le lexique dimaju-4.1.1-utf8.txt (étiquettes). La plupart
 des étapes vont nécessiter l'écriture de programmes Python mettant en jeu les instructions/structures de données Python.
 
-*Projet réalisé dans le cadre du cours de Traitement Automatique de Corpus de L3 TAL à l'INALCO (Enseignant : P.Paroubek).*
+*Projet réalisé dans le cadre du cours de Traitement Automatique de Corpus (Cursus : L3 TAL, Établissement : INALCO, Enseignant : P.Paroubek).*
